@@ -20,4 +20,16 @@ public class Demo2{
 				
 		
 	}
+
+	public class Demo3{
+	public static void main(String [] args) throws InterruptedException{		
+		Thread thred=new Thread();
+		Demo demo=new Demo(thread);
+		//new thread will execute
+		demo.start();
+		demo.wait();
+		
+				
+		
+	}
 }
