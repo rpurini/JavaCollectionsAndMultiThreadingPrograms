@@ -24,3 +24,11 @@ class Test{
 		Example e3= new Example();
 	}
 }
+
+class Test2{
+	public static void main(String [] args){
+		Example e1= new Example();
+		Example e2= new Example();
+		Example e3= new Example();
+	}
+}
